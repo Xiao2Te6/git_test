@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("hello git4"); //main
         System.out.println("hello git4"); //test
         System.out.println("hello git5");
+        System.out.println("hello git6");//github
 
     }
 }
